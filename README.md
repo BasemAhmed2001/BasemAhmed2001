@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Computer Engineering Graduate<br>🔍 Open to Work — Java Backend Developer<br>☕ Java & Spring Boot<br>🏗️ Building scalable backend solutions<br>🧠 Strong OOP & SOLID & clean architecture mindset
+🎓 Junior Software Engineer with bachelor's in Computer Engineering <br>🔍 Open to Work — Java Backend Developer<br>☕ Java & Spring Boot<br>🏗️ Building scalable backend solutions<br>🧠 Strong OOP & SOLID & clean architecture mindset
 
 
 ## 🌐 Socials:
